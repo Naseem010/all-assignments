@@ -1,5 +1,4 @@
 ## Create a course selling website
-
 ### Description
 1. Admins should be able to sign up
 2. Admins should be able to create courses
